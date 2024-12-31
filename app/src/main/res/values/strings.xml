@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EasyVoice</string>
+    <string name="speak">Speak</string>
+    <string name="speech_prompt">Speak now...</string>
+    <string name="speech_error">Speech recognition is not supported on this device.</string>
+    <string name="output_placeholder">Your speech will appear here</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
